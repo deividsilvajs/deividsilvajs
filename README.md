@@ -21,3 +21,4 @@ Olá! Sou o Deivid, um entusiasta da tecnologia apaixonado por programação e d
 
 ## Projetos
 - **[More Health](https://github.com/deividsilvajs/more-health)**
+- **[Nutri Info](https://github.com/deividsilvajs/nutri-info)**
